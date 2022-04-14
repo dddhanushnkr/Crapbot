@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1a6c8a99-9ba0-4dc2-a181-68f0696b4549",
+    "data": [
+      {
+        "text": "HELP me ",
+        "userDefined": false
+      },
+      {
+        "text": "speak",
+        "meta": "@speak",
+        "alias": "speak",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f22e7ce2-8126-42d1-9d27-f4f3b6dae2d2",
+    "data": [
+      {
+        "text": "Ask anything from ",
+        "userDefined": false
+      },
+      {
+        "text": "Friend",
+        "meta": "@sys.street-address",
+        "alias": "street-address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e275f392-44b0-46b4-a239-911949957c3d",
+    "data": [
+      {
+        "text": "Ask help from ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "meta": "@sys.address",
+        "alias": "address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7d7b269-73aa-45c5-9054-aaf79056d6e1",
+    "data": [
+      {
+        "text": "Call someone for help ",
+        "userDefined": false
+      },
+      {
+        "text": "2017dhanushkrnavudahelio",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      },
+      {
+        "text": "@gmail.com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cae46ba4-2ee7-4a53-af3a-5609f976b836",
+    "data": [
+      {
+        "text": "Call someone for help ",
+        "userDefined": false
+      },
+      {
+        "text": "9148672035",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a582d53-c429-4f7b-8338-85378ce2be8e",
+    "data": [
+      {
+        "text": "Call Customer Care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
