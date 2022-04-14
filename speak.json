@@ -1,0 +1,9 @@
+{
+  "id": "b0812409-239d-4574-b5ed-663b258644f0",
+  "name": "speak",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
